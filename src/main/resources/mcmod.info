@@ -1,0 +1,23 @@
+[
+{
+  "modid": "FlannTest",
+  "name": "Flann Test Mod",
+  "description": "A test mod for Flann Entertainment",
+  "version": "1.0",
+  "mcversion": "1.7.2",
+  "url": "http://tiny.cc/flga",
+  "updateUrl": "",
+  "authorList": [
+    "Dentzor / Dentsor / Xnet",
+    "Popill",
+    "Rubiddxx"
+  ],
+  "credits": "Someone?",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent": "",
+  "dependencies": [
+  ]
+}
+]
